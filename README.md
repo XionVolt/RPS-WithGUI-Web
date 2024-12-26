@@ -30,6 +30,16 @@ Welcome to the Rock Paper Scissors game! This is a simple yet engaging web appli
 - CSS
 - JavaScript
 
+# File Structure
+The project consists of the following files:
+```
+rock-paper-scissors/
+│
+├── index.html         # Main HTML file
+├── styles.css         # CSS file for styling
+└── script.js          # JavaScript file for game logic
+```
+
 # Installation
 1. To run this game locally, follow these steps:
     ```git clone https://github.com/yourusername/rock-paper-scissors.git```
