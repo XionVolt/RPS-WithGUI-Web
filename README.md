@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors Game 🎮  
 Welcome to the Rock Paper Scissors game! This is a simple yet engaging web application that allows you to play the classic game against a computer opponent. The game features a visually appealing interface, animations, and the ability to play using keyboard keys.
 
-## Features
+# Features
 - **Play Against the Computer:** Choose between Rock (🪨), Paper (📃), or Scissors (✂️) and compete against a computer opponent.
 - **Score Tracking:** The game keeps track of your wins, losses, and ties, displaying the current score on the screen.
 - **Animations:** Enjoy smooth animations that enhance the gameplay experience, including animations for player and computer moves.
@@ -15,3 +15,10 @@ Welcome to the Rock Paper Scissors game! This is a simple yet engaging web appli
   - Press `Backspace` to open the reset confirmation dialog
   - Press `Enter` to confirm the reset
   - Press `Escape` to cancel the reset
+# How to Play
+1. **Choose Your Move:** Click on one of the three buttons (Rock, Paper, Scissors) to make your move.
+2. **View Results:** After each round, the game will display the result of your move against the computer's choice.
+3. **Track Your Score:** Your wins, losses, and ties will be updated and displayed on the screen.
+4. **Use Keyboard Shortcuts:** You can also use the keyboard shortcuts mentioned above to play the game without using the mouse.
+5. **Enable Auto Play:** Click the "Auto Play" button to let the computer play automatically. Click it again to stop.
+6. **Reset Your Score:** Click the "Reset Score" button to reset your score. A confirmation dialog will appear to confirm your action.
