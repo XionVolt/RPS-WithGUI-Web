@@ -25,12 +25,12 @@ Welcome to the Rock Paper Scissors game! This is a simple yet engaging web appli
 5. **Enable Auto Play:** Click the "Auto Play" button to let the computer play automatically. Click it again to stop.
 6. **Reset Your Score:** Click the "Reset Score" button to reset your score. A confirmation dialog will appear to confirm your action.
 
-**Technologies Used**
+# Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-**Installation**
+# Installation
 1. To run this game locally, follow these steps:
     ```git clone https://github.com/yourusername/rock-paper-scissors.git```
 2. Navigate to the project directory:
