@@ -13,8 +13,8 @@ Welcome to the Rock Paper Scissors game! This is a simple yet engaging web appli
   - Press `s` for Scissors (✂️)
   - Press `a` to toggle Auto Play
   - Press `Backspace` to open the reset confirmation dialog
-  - Press `Enter` to confirm the reset
-  - Press `Escape` to cancel the reset
+    - Press `Enter` to confirm the reset
+    - Press `Escape` to cancel the reset
 
 
 # How to Play
